@@ -14,6 +14,6 @@ A fully functional Instagram clone built using Flutter and Firebase. This projec
 
 ## Screenshots
 
-![Login and Home Screen](assetss/1.png)
+![Login and Home Screen](assets/1.png)
 ![Profile](assets/2.png)
  
